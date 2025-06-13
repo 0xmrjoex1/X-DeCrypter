@@ -2,18 +2,18 @@
 
 **This tool for decode scripts and BAT files,**
 
-> **# Languange Decode: 
+> # **Languange Decode:**
 > 
-> - Powershell
+> - **Powershell**
 > 
-> - Base64
+> - **Base64**
 > 
-> - XOR
+> - **XOR**
 > 
-> - Hex 
+> - **Hex**
 > 
-> - URL
+> - **URL**
 > 
-> - Caesar**
+> - **Caesar**
 >
 > #Enjoy <3
